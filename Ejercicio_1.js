@@ -1,4 +1,5 @@
-const prompt = require ("prompt-sync")(); 
+//! Andrés Alfonso
+
 
 function calcularPropina(total,porcentaje){
     total = Number(total);
